@@ -1,5 +1,5 @@
 <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="aws"/> <p> 
-# OCI-Projects
+# Oracle Cloud Infrastructure - Projects
 <p>
 ⭕ <b> Project 01: </b> Deploying Users, Groups And Policies In A 100% Automated Way Using Ansible And Cloud Shell <p>
 ⭕ <b> Project 02: </b> Deployment Of Network Communication Control In Oracle Cloud Infrastructure With Virtual Cloud Network (VCN), Distinct Subnets And Security Lists With Specific Rules For each Subnet <p>
